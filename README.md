@@ -39,7 +39,7 @@ A mini-project exploring different control logics for LEDs using digital I/O, lo
 
 ## 📫 Contact
 Feel free to connect:  
-**Email:** *(leave empty or add yours)*  
+**Email:** a1376781571@gmail.com
 **GitHub:** https://github.com/WENYIRENZHAO  
 
 ---
