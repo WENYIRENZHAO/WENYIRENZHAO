@@ -23,9 +23,9 @@ A mini-project exploring different control logics for LEDs using digital I/O, lo
 ---
 
 ## 🛠️ Skills & Tools (Growing)
-**Languages:** C++ · Python  
+**Languages:** C++ · Python MATLAB
 **Hardware:** Arduino UNO, breadboard prototyping  
-**Interests:** Scientific computing · Quantitative reasoning · Circuit logic · Modeling
+**Interests:** Scientific computing Circuit logic  Modeling
 
 ---
 
@@ -45,7 +45,7 @@ Feel free to connect:
 ---
 
 ### 🧭 Personal Note  
-> *“Every small experiment is a step toward a larger understanding.  
-> Curiosity, discipline, and structure — these are the tools I build my world with.”*
+Every deliberate experiment expands the boundaries of what I understand.
+With clarity, discipline, and structure, I move steadily toward mastery.
 
 
