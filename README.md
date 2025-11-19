@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wenyiren Zhao
+# 👋 Hi, I'm Wenyiren Zhao (NOAH)
 
 🎓 **Biomedical Engineering undergraduate @ University of Minnesota – Twin Cities**  
 📈 Currently exploring **scientific computing, quantitative methods, and embedded systems**.  
