@@ -47,3 +47,4 @@ Feel free to connect:
 ### 🧭 Personal Note  
 > *“Every small experiment is a step toward a larger understanding.  
 > Curiosity, discipline, and structure — these are the tools I build my world with.”*
+
